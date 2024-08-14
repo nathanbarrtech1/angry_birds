@@ -13,4 +13,4 @@ Game: Contains different functions to draw the game from creating the level to d
 Sprite: Classes and functions for defining different sprites and their accompanying functions
 
 ### This is a demo video of the game
-[![Angry Buzz](https://github.com/user-attachments/assets/0ab24262-784d-4b7f-8dfa-80be08caaa52)](https://youtu.be/_KGwVSO_mTA )
+[![Angry Buzz](https://github.com/user-attachments/assets/9efd776d-0e7b-476f-9ce0-31a59ccfe16b)](https://youtu.be/_KGwVSO_mTA )
